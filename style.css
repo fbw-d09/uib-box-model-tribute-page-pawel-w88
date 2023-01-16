@@ -1,0 +1,48 @@
+header {
+  text-align: center;
+}
+
+header p {
+    font-size: 28px;
+    border: 2px solid;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+div {
+  height: 800px;
+  margin: 5%;
+  background-color: gainsboro;
+}
+
+.foto {
+  border: 2px solid;
+
+  background-image: url(https://a.allegroimg.com/s512/113c7c/915380e74fb6b5a5b0cc921d56a6/Plakat-Robert-Lewandowski-Fc-Barcelona-Barca-90x60);
+
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+main p {
+    border: 2px solid;
+    font-size: 24px;
+    background-color: gainsboro;
+    text-align: center;
+    padding: 20px;
+}
+
+ul li {
+    font-size: 26px;
+    text-align: center;
+    margin-left: -40px;
+    list-style-type: none;
+    background-color: gainsboro;
+}
+
+.foot {
+    border: 2px solid ;
+    height: 100px;
+    text-align: center;
+}
