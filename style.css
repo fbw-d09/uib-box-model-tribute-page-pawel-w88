@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+header p {
+    font-size: 28px;
+    border: 2px solid;
+    background-color: gainsboro;
+    padding: 10px;
+}
+
+div {
+  border: 2px solid;
+  height: 800px;
+  margin: 5%;
+  background-color: gainsboro;
+}
+
+div > img {
+  
+  width: 600px;
+  height: 800px;
+  padding-left: 30%;
+}
+
+main p {
+    border: 2px solid;
+    font-size: 24px;
+    background-color: gainsboro;
+    text-align: center;
+    padding: 20px;
+}
+
+ul li {
+    font-size: 26px;
+    text-align: center;
+    margin-left: -40px;
+    list-style-type: none;
+    background-color: gainsboro;
+}
+
+.foot {
+    border: 2px solid ;
+    margin-left: -4px;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+}
